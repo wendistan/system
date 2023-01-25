@@ -1,3 +1,8 @@
 # system
 Shell commands on Linux etc
-`hello`¸
+
+### Virtual envorinment
+
+create: `mkvirtualenv myEnv`
+start:  `workon myEnv`
+leave:  `deactivate`
