@@ -1,7 +1,7 @@
 # system
 Shell commands on Linux etc
 
-### Virtual envorinment
+### Virtual environment
 
 create: `mkvirtualenv myEnv`
 
