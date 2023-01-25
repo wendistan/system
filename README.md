@@ -8,3 +8,5 @@ create: `mkvirtualenv myEnv`
 start:  `workon myEnv`
 
 leave:  `deactivate`
+list all environments: ´lsvirtualenv´
+
