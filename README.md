@@ -10,5 +10,5 @@ list all environments: `lsvirtualenv` <br>
 
 ### Find files
 
-find file: `find ~/pathToFolder -name "myfile.txt"`
+find file: `find ~/pathToFolder -name "myfile.txt"` <br>
 find and list: `find ~/pathToFolder -name "myfile.txt" -exec ls -ltr {} \;`
